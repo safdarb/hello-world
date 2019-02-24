@@ -1,2 +1,2 @@
 # hello-world
-Repository for BAU
+Repository for Business as usual
